@@ -1,2 +1,6 @@
-# disorder-detection
-An artificial intelligence machine learning model that gets trained and tested on reddit texts data with different methods. Then the output performences are compared and ranked.
+# Setup Guide
+- install the dependencies and recorrect the addresses based on your system's folders
+- open cmd in project root and type "py detect.py"
+
+# Tech Features
+scikit-learn, pytorch, nltk, gensim
